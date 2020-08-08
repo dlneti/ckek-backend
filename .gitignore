@@ -1,0 +1,11 @@
+*secrets*
+*get*
+
+.vscode
+venv/
+*pycache*
+
+*.txt
+
+pg.py
+*local*
